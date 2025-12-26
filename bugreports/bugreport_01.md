@@ -19,7 +19,7 @@
 Windows 10 Pro, Yandex Browser 25.10.2.1176 (64-bit)
 
 Важность:
-Midle
+Minor
 
 Приоретет: 
 Low
